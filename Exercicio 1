@@ -1,1 +1,12 @@
+alunos_notas = []
+
+# Receber o nome e nota dos alunos
+for i in range(10):
+    nome = input(f"Nome do {i+1}º aluno: ")
+    nota = float(input(f"Nota do {i+1}º aluno: "))
+    alunos_notas.append((nome, nota))
+
+# Mostrar as notas dos alunos
+for aluno in alunos_notas:
+    print(f"{aluno[0]}: {aluno[1]}")
 
