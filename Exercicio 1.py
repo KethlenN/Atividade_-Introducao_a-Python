@@ -2,7 +2,7 @@
 
                 -(atividade 1.1)-
 
-(Data de Entrega: 14/10)
+(Prazo: 14/10)
 
 alunos_notas = []
 
