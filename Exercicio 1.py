@@ -38,7 +38,7 @@ media = sum(notas) / 10
 
 print(f"\nA média das notas é: {media:.2f}")
 
-                -(atividade 1.4)- 
+                 -(atividade 1.4)- 
 
 alunos = []
 notas = []
@@ -61,7 +61,7 @@ print(f"Média das notas: {media:.2f}")
 print(f"Maior nota: {maior} - Alunos: {', '.join(alunos_maior)}")
 print(f"Menor nota: {menor} - Alunos: {', '.join(alunos_menor)}")
 
-                      (atividade 1.5)- 
+                  -(atividade 1.5)- 
 
 nomes = []
 notas = []
@@ -78,10 +78,22 @@ print("\nAlunos com nota abaixo da média:")
 for i in range(10):
     if notas[i] < media:
         print(f"{nomes[i]} - {notas[i]}")
+      
+                   -(atividade 1.6)- 
 
+nomes = []
+notas = []
 
+for i in range(10):
+    nomes.append(input(f"Nome do {i+1}º aluno: "))
+    notas.append(float(input("Nota: ")))
 
+media = sum(notas) / 10
 
+print(f"\nMédia das notas: {media:.2f}")
+print("\nAlunos com nota maior ou igual à média:")
 
-
+for i in range(10):
+    if notas[i] >= media:
+        print(f"{nomes[i]} - {notas[i]}")
 
