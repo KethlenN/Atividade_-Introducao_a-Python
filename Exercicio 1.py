@@ -2,6 +2,8 @@
 
                 -(atividade 1.1)-
 
+(Data de Entrega: 14/10)
+
 alunos_notas = []
 
 for i in range(10):
