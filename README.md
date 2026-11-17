@@ -1,13 +1,6 @@
 Repositório criado para armazenar exercícios práticos de introdução à linguagem Python.
 
-- Conteúdos estudados:
+* Conteúdos estudados:
 
-*Variáveis e tipos de dados
 
-*Entrada e saída de dados
-
-*Operadores
-
-*Estruturas condicionais
-
-*Estruturas de repetição
+- Desenvolvi conhecimentos em lógica de programação e fundamentos da linguagem Python, trabalhando com variáveis, tipos de dados, operadores matemáticos e lógicos, entrada e saída de dados, estruturas condicionais e estruturas de repetição. Também pratiquei a resolução de problemas por meio de exercícios de programação.
