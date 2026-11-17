@@ -1,6 +1,6 @@
 Repositório criado para armazenar exercícios práticos de introdução à linguagem Python.
 
-Conteúdos estudados:
+- Conteúdos estudados:
 
 *Variáveis e tipos de dados
 
